@@ -1,0 +1,46 @@
+# React Native
+node_modules/
+android/app/build/
+ios/Pods/
+ios/build/
+*.keystore
+*.jks
+*.p12
+
+# Firebase Admin Secret
+backend/firebase-admin.json
+
+# Android build folders
+android/.gradle/
+android/build/
+android/app/build/
+android/app/.cxx/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# dotenv files
+.env
+.env.local
+.env.*.local
+
+# Metro / Cache
+.expo/
+.expo-shared/
+babel.config.js
+metro.config.js
+package-lock.json
+
+# Git
+.git/

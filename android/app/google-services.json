@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "764205641748",
+    "project_id": "vedaznotification",
+    "storage_bucket": "vedaznotification.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764205641748:android:b90fe2029e0f76963ef701",
+        "android_client_info": {
+          "package_name": "com.vedaznotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfNQeLk8s6Sxf7-4oRkDVU_O6e3ZMT2P4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
