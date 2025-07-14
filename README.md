@@ -35,7 +35,7 @@ A simple yet powerful React Native mobile application that supports **real-time 
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/PritamKasar/VedazNotification.git
+git clone https://github.com/PritamKasar/VedaznotificationAssesment-.git
 cd VedazNotification
 ```
 
